@@ -1,0 +1,8 @@
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\bin\Debug\netcoreapp3.1\Exp2B.deps.json
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\bin\Debug\netcoreapp3.1\Exp2B.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\obj\Debug\netcoreapp3.1\Exp2B.csprojAssemblyReference.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\obj\Debug\netcoreapp3.1\Exp2B.AssemblyInfoInputs.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\obj\Debug\netcoreapp3.1\Exp2B.AssemblyInfo.cs
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\bin\Debug\netcoreapp3.1\Exp2B.pdb
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\obj\Debug\netcoreapp3.1\Exp2B.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\Exp2B\obj\Debug\netcoreapp3.1\Exp2B.pdb

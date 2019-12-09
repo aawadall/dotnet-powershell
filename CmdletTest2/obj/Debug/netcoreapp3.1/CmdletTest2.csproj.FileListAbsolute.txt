@@ -1,0 +1,8 @@
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\bin\Debug\netcoreapp3.1\CmdletTest2.deps.json
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\bin\Debug\netcoreapp3.1\CmdletTest2.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\obj\Debug\netcoreapp3.1\CmdletTest2.AssemblyInfoInputs.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\obj\Debug\netcoreapp3.1\CmdletTest2.AssemblyInfo.cs
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\bin\Debug\netcoreapp3.1\CmdletTest2.pdb
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\obj\Debug\netcoreapp3.1\CmdletTest2.csprojAssemblyReference.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\obj\Debug\netcoreapp3.1\CmdletTest2.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdletTest2\obj\Debug\netcoreapp3.1\CmdletTest2.pdb

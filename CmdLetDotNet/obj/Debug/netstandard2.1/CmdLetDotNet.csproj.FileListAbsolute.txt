@@ -1,0 +1,8 @@
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\bin\Debug\netstandard2.1\CmdLetDotNet.deps.json
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\bin\Debug\netstandard2.1\CmdLetDotNet.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\obj\Debug\netstandard2.1\CmdLetDotNet.csprojAssemblyReference.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\obj\Debug\netstandard2.1\CmdLetDotNet.AssemblyInfoInputs.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\obj\Debug\netstandard2.1\CmdLetDotNet.AssemblyInfo.cs
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\bin\Debug\netstandard2.1\CmdLetDotNet.pdb
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\obj\Debug\netstandard2.1\CmdLetDotNet.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\CmdLetDotNet\obj\Debug\netstandard2.1\CmdLetDotNet.pdb

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\RnD\\CmdLets\\Exp2\\CmdletTest2\\CmdLetDotNet\\CmdLetDotNet.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\RnD\\CmdLets\\Exp2\\CmdletTest2\\CmdLetDotNet\\CmdLetDotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\RnD\\CmdLets\\Exp2\\CmdletTest2\\CmdLetDotNet\\CmdLetDotNet.csproj",
+        "projectName": "CmdLetDotNet",
+        "projectPath": "D:\\Projects\\RnD\\CmdLets\\Exp2\\CmdletTest2\\CmdLetDotNet\\CmdLetDotNet.csproj",
+        "packagesPath": "C:\\Users\\aawad\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\RnD\\CmdLets\\Exp2\\CmdletTest2\\CmdLetDotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aawad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview3-014645\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

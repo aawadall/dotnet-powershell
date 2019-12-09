@@ -1,0 +1,9 @@
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\bin\Debug\DotNetCmdlet.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\bin\Debug\DotNetCmdlet.pdb
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\bin\Debug\System.Management.Automation.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\bin\Debug\System.Management.Automation.xml
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\obj\Debug\DotNetCmdlet.csprojAssemblyReference.cache
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\obj\Debug\DotNetCmdlet.csproj.CopyComplete
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\obj\Debug\DotNetCmdlet.dll
+D:\Projects\RnD\CmdLets\Exp2\CmdletTest2\DotNetCmdlet\obj\Debug\DotNetCmdlet.pdb

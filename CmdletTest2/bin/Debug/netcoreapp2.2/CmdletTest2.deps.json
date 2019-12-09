@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CmdletTest2/1.0.0": {
+        "dependencies": {
+          "PowerShellStandard.Library": "5.1.0",
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "CmdletTest2.dll": {}
+        }
+      },
+      "PowerShellStandard.Library/5.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Management.Automation.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "5.1.0.0"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "CmdletTest2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PowerShellStandard.Library/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iYaRvQsM1fow9h3uEmio+2m2VXfulgI16AYHaTZ8Sf7erGe27Qc8w/h6QL5UPuwv1aXR40QfzMEwcCeiYJp2cw==",
+      "path": "powershellstandard.library/5.1.0",
+      "hashPath": "powershellstandard.library.5.1.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    }
+  }
+}
